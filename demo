@@ -1,4 +1,27 @@
 section 1
+        Eigenvalues are associated with eigenvectors in Linear algebra. Both terms are used in the analysis of linear transformations. Eigenvalues are the special set of scalar values that is associated with the set of linear equations most probably in the matrix equations. The eigenvectors are also termed as characteristic roots. It is a non-zero vector that can be changed at most by its scalar factor after the application of linear transformations. And the corresponding factor which scales the eigenvectors is called an eigenvalue.
+
+Table of contents:
+
+Definition
+Eigenvectors
+Square matrices eigenvalues
+Properties
+Example
+Eigenvalue of 2×2 matrix
+Practice Problems
+FAQs
+
+Eigenvalue Definition
+Eigenvalues are the special set of scalars associated with the system of linear equations. It is mostly used in matrix equations. ‘Eigen’ is a German word that means ‘proper’ or ‘characteristic’. Therefore, the term eigenvalue can be termed as characteristic value, characteristic root, proper values or latent roots as well. In simple words, the eigenvalue is a scalar that is used to transform the eigenvector. The basic equation is
+
+Ax = λx
+
+The number or scalar value “λ” is an eigenvalue of A.
+
+In Mathematics, an eigenvector corresponds to the real non zero eigenvalues which point in the direction stretched by the transformation whereas eigenvalue is considered as a factor by which it is stretched. In case, if the eigenvalue is negative, the direction of the transformation is negative.
+
+For every real matrix,  there is an eigenvalue. Sometimes it might be complex. The existence of the eigenvalue for the complex matrices is equal to the fundamental theorem of algebra.
 
 section 2
 
